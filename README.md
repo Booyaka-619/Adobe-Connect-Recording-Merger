@@ -21,6 +21,7 @@ No third-party Python packages are needed — only standard library modules are 
 ## Usage
 ```bash
 python3 merge_adobe_connect.py
+```
 
 The script will prompt you interactively:
 
